@@ -1,0 +1,38 @@
+*{
+    background: rgb(113, 113, 253);
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    color: #ffffff;
+}
+.formulario{
+    margin: 0;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #ffffff;
+}
+#uno{
+    width: 80px;
+    height: 15px;
+}
+#dos{
+    width: 80px;
+    height: 15px;
+}
+#valor{
+    font-size: 24px;
+}
+#cotizador{
+    background: #7aedf5cc;
+    box-shadow: 0 0 10px #ffffff, 0 0 40px #ffffff, 0 0 80px #ffffff;
+    transition-delay: 1s;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    font-size: 20px;
+    border-radius: 20px;
+}
